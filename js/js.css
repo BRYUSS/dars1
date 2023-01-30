@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bigsection{
+    margin: 0 auto;
+    width: 50%;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid red;
+    border-radius: 6px;
+}
+
+.rasmsection img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.rasmsection{
+    width: 60px;
+    height: 60px;
+
+}
+
+
+
